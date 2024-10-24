@@ -1,0 +1,12 @@
+.completed {
+    text-decoration: line-through;
+  }
+#addTaskBtn{
+    background-color:#5fa8d3
+}  
+#addTaskBtn:hover{
+background-color:#1b4965;
+}
+.deleteBtn{
+    background-color:#c9184a;
+}
